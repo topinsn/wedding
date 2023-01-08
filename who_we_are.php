@@ -25,13 +25,13 @@
 
                     <h1 align="center" id="titile_topic">Latest Wedding Videographer in Lagos</h1><br> For me, it’s not just about showing up on the day. It’s about building a relationship in the run-up to the big day, so that by the time your wedding arrives, I will be able to deliver something
                     that you will cherish and talk about for years to come. You and your day deserve someone who understands your story and who tailors the videography to reflect your personality, hopes and taste.<br>
-                    <!--<img src="images/negro.jpg" alt="Mr Negro on wedding day" height="300px" width="250px" id="story_3" align="center">-->
+                    <!--<img src="images/negro.jpg" alt="man on wedding day" height="300px" width="250px" id="story_3" align="center">-->
                 </span>
             </div>
         </div>
         <div>
             <p align="center" style="font-size:25px ; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">If you’re looking for a cinematic wedding videographer in Lagos, who’s truly committed to creating a video that does your day justice,
-                <a href="contact_us.html" id="please_come" style="text-decoration-line:none;">
+                <a href="contact_us.php" id="please_come" style="text-decoration-line:none;">
                     <spam style="color: brown;  font-size: larger;">please get in touch</spam>
                 </a>
             </p>
@@ -40,7 +40,7 @@
             <p align="center"><img src="images/award-photo.png" alt="film and phptgraphy award" height="200px" width="280px"></p>
         </div>
         <div>
-            <a href="testimonials.html">
+            <a href="testimonials.php">
                 <p align="center" ;><button style="border-radius:30px;">View Samples</button></p>
             </a>
         </div>
@@ -48,25 +48,25 @@
             <div class="samples">
                 <div class="pictext" id="movie_sample">
                     <p>
-                        <a href="wedding_videos.html"><video loop autoplay muted src="videos/istockphoto-1063452760-640_adpp_is.mp4" height="350px" width="635px" style="margin-left: 0px;"></video></a>
+                        <a href="wedding_videos.php"><video loop autoplay muted src="videos/istockphoto-1063452760-640_adpp_is.mp4" height="350px" width="635px" style="margin-left: 0px;"></video></a>
                     </p>
 
                 </div>
                 <div class="pictext" id="package_cost">
                     <div id="overlay_1">
-                        <a href="packages.html"><button align="center" style="background-color:transparent; align-items: center; border-color: transparent">PACKAGE COST</button></a>
+                        <a href="packages.php"><button align="center" style="background-color:transparent; align-items: center; border-color: transparent">PACKAGE COST</button></a>
                     </div>
                 </div>
             </div>
             <div class="samples">
                 <div class="pictext" id="testimonial">
                     <div id="overlay_2">
-                        <a href="testimonials.html"><button align="center" style="background-color:transparent; align-items: center;border-color: transparent">TESTIMONIAL</button></a>
+                        <a href="testimonials.php"><button align="center" style="background-color:transparent; align-items: center;border-color: transparent">TESTIMONIAL</button></a>
                     </div>
                 </div>
                 <div class="pictext" id="back_image">
                     <div id="overlay_3">
-                        <a href="contact_us.html"><button align="center" style="background-color:transparent; align-items: center;border-color: transparent;">CONTACT US</button></a>
+                        <a href="contact_us.php"><button align="center" style="background-color:transparent; align-items: center;border-color: transparent;">CONTACT US</button></a>
                     </div>
                 </div>
             </div>
